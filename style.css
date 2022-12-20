@@ -91,7 +91,7 @@ body {
 
 .first-section {
     width: 100%;
-    background-image: linear-gradient(rgba(250, 230, 189, 0), rgba(250, 230, 191, 0)), url(../images/bg.jpg);
+    background-image: linear-gradient(rgba(250, 230, 189, 0), rgba(250, 230, 191, 0)), url(./images/bg.jpg);
     background-size: cover;
     height: 100vh;
     background-position: right 10% top 0%;
